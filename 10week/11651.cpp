@@ -1,4 +1,4 @@
-//10week / BOJ11651.좌표 정렬하기 2 / 실버5 / 정렬1 / 시간 104ms / 메모리 2808KB
+// 10week / BOJ11651.좌표 정렬하기 2 / 실버5 / 정렬1 / 시간 104ms / 메모리 2808KB
 
 #include <iostream>
 #include <vector>
